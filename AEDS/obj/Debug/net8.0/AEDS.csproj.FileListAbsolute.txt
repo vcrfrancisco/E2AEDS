@@ -1,0 +1,14 @@
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/bin/Debug/net8.0/AEDS
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/bin/Debug/net8.0/AEDS.deps.json
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/bin/Debug/net8.0/AEDS.runtimeconfig.json
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/bin/Debug/net8.0/AEDS.dll
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/bin/Debug/net8.0/AEDS.pdb
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/AEDS.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/AEDS.AssemblyInfoInputs.cache
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/AEDS.AssemblyInfo.cs
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/AEDS.csproj.CoreCompileInputs.cache
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/AEDS.dll
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/refint/AEDS.dll
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/AEDS.pdb
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/AEDS.genruntimeconfig.cache
+/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/Debug/net8.0/ref/AEDS.dll
