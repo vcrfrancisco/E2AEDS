@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/vitor.reis/.nuget/packages/": {}
+    "C:\\Users\\Java\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/AEDS.csproj",
+      "projectUniqueName": "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\AEDS.csproj",
       "projectName": "AEDS",
-      "projectPath": "/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/AEDS.csproj",
-      "packagesPath": "/home/vitor.reis/.nuget/packages/",
-      "outputPath": "/home/vitor.reis/Documentos/facul/E2AEDS/AEDS/obj/",
+      "projectPath": "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\AEDS.csproj",
+      "packagesPath": "C:\\Users\\Java\\.nuget\\packages\\",
+      "outputPath": "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vitor.reis/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Java\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

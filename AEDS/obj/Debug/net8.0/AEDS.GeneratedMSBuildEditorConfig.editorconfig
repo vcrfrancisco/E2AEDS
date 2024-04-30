@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AEDS
-build_property.ProjectDir = /home/vitor.reis/Documentos/facul/E2AEDS/AEDS/
+build_property.ProjectDir = E:\Documentos\PUC\Eixo 2\E2AEDS\AEDS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
