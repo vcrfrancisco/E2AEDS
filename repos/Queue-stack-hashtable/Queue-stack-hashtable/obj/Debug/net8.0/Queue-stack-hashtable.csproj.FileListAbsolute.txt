@@ -1,0 +1,14 @@
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\Queue-stack-hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\Queue-stack-hashtable.AssemblyInfoInputs.cache
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\Queue-stack-hashtable.AssemblyInfo.cs
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\Queue-stack-hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\bin\Debug\net8.0\Queue-stack-hashtable.exe
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\bin\Debug\net8.0\Queue-stack-hashtable.deps.json
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\bin\Debug\net8.0\Queue-stack-hashtable.runtimeconfig.json
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\bin\Debug\net8.0\Queue-stack-hashtable.dll
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\bin\Debug\net8.0\Queue-stack-hashtable.pdb
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\Queue-stack-hashtable.dll
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\refint\Queue-stack-hashtable.dll
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\Queue-stack-hashtable.pdb
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\Queue-stack-hashtable.genruntimeconfig.cache
+C:\Users\Java\source\repos\Queue-stack-hashtable\Queue-stack-hashtable\obj\Debug\net8.0\ref\Queue-stack-hashtable.dll

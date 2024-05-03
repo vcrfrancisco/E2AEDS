@@ -1,0 +1,7 @@
+C:\Users\Java\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Java\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Java\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Java\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Java\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Java\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Java\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

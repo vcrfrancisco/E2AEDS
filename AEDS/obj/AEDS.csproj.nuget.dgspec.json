@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\AEDS.csproj": {}
+    "C:\\Users\\Java\\source\\E2AEDS\\AEDS\\AEDS.csproj": {}
   },
   "projects": {
-    "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\AEDS.csproj": {
+    "C:\\Users\\Java\\source\\E2AEDS\\AEDS\\AEDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\AEDS.csproj",
+        "projectUniqueName": "C:\\Users\\Java\\source\\E2AEDS\\AEDS\\AEDS.csproj",
         "projectName": "AEDS",
-        "projectPath": "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\AEDS.csproj",
+        "projectPath": "C:\\Users\\Java\\source\\E2AEDS\\AEDS\\AEDS.csproj",
         "packagesPath": "C:\\Users\\Java\\.nuget\\packages\\",
-        "outputPath": "E:\\Documentos\\PUC\\Eixo 2\\E2AEDS\\AEDS\\obj\\",
+        "outputPath": "C:\\Users\\Java\\source\\E2AEDS\\AEDS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Java\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Java\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

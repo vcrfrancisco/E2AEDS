@@ -1,0 +1,7 @@
+C:\Users\Java\source\repos\Referências\Referências\obj\Debug\Referências.csproj.AssemblyReference.cache
+C:\Users\Java\source\repos\Referências\Referências\obj\Debug\Referências.csproj.CoreCompileInputs.cache
+C:\Users\Java\source\repos\Referências\Referências\bin\Debug\Referências.exe.config
+C:\Users\Java\source\repos\Referências\Referências\bin\Debug\Referências.exe
+C:\Users\Java\source\repos\Referências\Referências\bin\Debug\Referências.pdb
+C:\Users\Java\source\repos\Referências\Referências\obj\Debug\Referências.exe
+C:\Users\Java\source\repos\Referências\Referências\obj\Debug\Referências.pdb
